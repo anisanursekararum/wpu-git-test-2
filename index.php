@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>CHAEWON</h1>
+    <p>yujin dan minju</p>
 </body>
 </html>
